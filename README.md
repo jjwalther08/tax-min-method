@@ -1,8 +1,10 @@
 # tax-min-method
 
-What the project does and why is it useful?
+The goal of this project is to recreate the Tax Minimization Method that Betterment uses based on the following rules and conditions as outlined in the article below.
 
 https://www.betterment.com/resources/lowering-your-tax-bill-by-improving-our-cost-basis-accounting-methods/
+
+The following is an exceprt from the article above.
 
 When Betterment customers sell securities, our algorithms select which specific lots to sell on the fly, following a set of rules which we call TaxMin. This method is more granular in its approach, and will improve the tax impact for most transactions, as compared to FIFO.
 
